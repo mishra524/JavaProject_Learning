@@ -8,7 +8,7 @@ public class Java_Array_LinearSearch {
 		//Search an element in an array(linear search)
 		
 		int a[]= {10, 34, 11, 25, 56};
-		int searchElement=110;
+		int searchElement=10;
 		boolean status=false;
 				
 		for(int i=0;i<a.length; i++)
