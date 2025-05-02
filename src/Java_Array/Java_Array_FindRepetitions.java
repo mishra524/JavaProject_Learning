@@ -6,7 +6,7 @@ public class Java_Array_FindRepetitions {
 		
 		
 		int a[]= {10,20,30,10,10};
-		int num=21;
+		int num=10;
 		int count=0;
 		int i;
 		
